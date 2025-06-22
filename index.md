@@ -10,7 +10,6 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 | Rule                    | Amount                 | Method                    |
 | ----------------------- | ---------------------- | ------------------------- |
 | 2499 (Welcome Packages) | 10                     | Receive a welcome package |
-| 2697 (The Bounty Board) | target's Bounty Amount | Eliminate an alive player |
 
 ## Ways to use spendies
 
