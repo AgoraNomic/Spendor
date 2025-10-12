@@ -10,7 +10,7 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 | Rule                    | Amount                 | Method                    |
 | ----------------------- | ---------------------- | ------------------------- |
 | 2499 (Welcome Packages) | 10                     | Receive a welcome package |
-| TBD (Pyrite)            | 1                      | Pay 200 Pyrite            |
+| 2707 (Pyrite)           | 1                      | Pay 200 Pyrite            |
 
 ## Ways to use spendies
 
@@ -22,4 +22,4 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 | 2659 (Stamps)           | 6              | Transfer a stamp from the Lost and Found Department to yourself |
 | 2695 (The Veblen)       | >= Veblen cost | Transfer the Veblen to yourself                                 |
 | 2700 (Candles)          | 1              | Grant a candle to a contest                                     |
-| TBD (Pyrite)            | 1              | Gain 100 Pyrite                                                 |
+| 2707 (Pyrite)           | 1              | Gain 100 Pyrite                                                 |
