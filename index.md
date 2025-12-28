@@ -22,4 +22,4 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 | 2659 (Stamps)                | 6              | Transfer a stamp from the Lost and Found Department to yourself |
 | 2695 (The Veblen)            | >= Veblen cost | Transfer the Veblen to yourself                                 |
 | 2707 (Pyrite)                | 1              | Gain 100 Pyrite                                                 |
-| ???? (Spending Number Cards) | 2              | Convert Number Cards X and Y to (X + Y mod 10)                  |
+| 2714 (Spending Number Cards) | 2              | Convert Number Cards X and Y to (X + Y mod 10)                  |
