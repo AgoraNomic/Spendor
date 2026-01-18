@@ -9,7 +9,7 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 
 | Rule                    | Amount                 | Method                              |
 | ----------------------- | ---------------------- | ----------------------------------- |
-| 2499 (Welcome Packages) | 10                     | Receive a welcome package           |
+| 2499 (Welcome Packages) | 15                     | Receive a welcome package           |
 | 2707 (Pyrite)           | 1                      | Pay 200 Pyrite (max 40 times/month) |
 
 ## Ways to use spendies
