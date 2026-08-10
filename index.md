@@ -20,6 +20,7 @@ Spendies (Rule 2690) are a part of the Agoran economy that resets monthly. Each 
 | 2555 (Blots)                 | 7              | Remove a blot from someone                     |
 | 2656 (Radiance)              | 2              | Gain one radiance                              |
 | 2659 (Stamps)                | 5              | Grant yourself up to two stamps of your type   |
+| 2683 (The Boulder)           | 10 + Slope     | Push the Boulder a second time per week        |
 | 2695 (The Veblen)            | >= Veblen cost | Gain the Veblen                                |
 | 2707 (Pyrite)                | 1              | Gain 100 Pyrite                                |
 | 2714 (Spending Number Cards) | 6              | Convert Number Cards X and Y to (X + Y mod 10) |
